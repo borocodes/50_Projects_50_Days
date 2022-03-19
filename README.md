@@ -9,3 +9,4 @@ I bought this Udemy course a while back and decided it would be an excellent too
 | 02   | Progress Steps       | [Demo](https://codepen.io/borocodes/pen/ExoPEKw) |
 | 03   | Rotating Navigation  | [Demo](https://codepen.io/borocodes/pen/zYpqdoJ) |
 | 04   | Hidden Search Widget | [Demo](https://codepen.io/borocodes/pen/VwyaVQG) |
+| 05   | Blurry Loading       | [Demo](https://codepen.io/borocodes/pen/oNpxmMZ) |
