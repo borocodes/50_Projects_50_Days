@@ -27,6 +27,10 @@ body {
     transform: rotate(-20deg);
 }
 
+.container.show-nav .circle {
+    transform: rotate(-70deg);
+}
+
 .circle-container {
     position: fixed;
     top: -100px;
@@ -41,6 +45,7 @@ body {
     position: relative;
     transition: transform 0.5s linear;
 }
+
 
 .circle button {
     cursor: pointer;
@@ -74,7 +79,7 @@ body {
 }
 
 
-.nav {
+nav {
     position: fixed;
     bottom: 40px;
     left: 0;
