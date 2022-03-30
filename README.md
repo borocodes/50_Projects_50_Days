@@ -11,3 +11,5 @@ I bought this Udemy course a while back and decided it would be an excellent too
 | 04   | Hidden Search Widget | [Demo](https://codepen.io/borocodes/pen/VwyaVQG) |
 | 05   | Blurry Loading       | [Demo](https://codepen.io/borocodes/pen/oNpxmMZ) |
 | 06   | Scroll Animation     | [Demo](https://codepen.io/borocodes/pen/LYeRbgG) |
+| 07   | Split Landing Page   | [Demo](https://codepen.io/borocodes/pen/zYpZmpp) |
+| 08   | Form Wave Animation  | [Demo](https://codepen.io/borocodes/pen/LYeRbgG) |
