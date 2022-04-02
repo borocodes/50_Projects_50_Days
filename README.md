@@ -13,3 +13,5 @@ I bought this Udemy course a while back and decided it would be an excellent too
 | 06   | Scroll Animation     | [Demo](https://codepen.io/borocodes/pen/LYeRbgG) |
 | 07   | Split Landing Page   | [Demo](https://codepen.io/borocodes/pen/zYpZmpp) |
 | 08   | Form Wave Animation  | [Demo](https://codepen.io/borocodes/pen/LYeRbgG) |
+| 09   | Sound Board          | [Demo](https://codepen.io/borocodes/pen/poprGRm) |
+| 10   | Dad Joke Generator   | [Demo](https://codepen.io/borocodes/pen/VwyMrzG) |
